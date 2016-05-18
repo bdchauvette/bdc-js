@@ -1,0 +1,28 @@
+{
+  "name": "@bdchauvette-style/js",
+  "version": "1.0.0",
+  "description": "Personal JavaScript style rules.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --config eslintrc.json ."
+  },
+  "bin": {
+    "bdc-js": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdchauvete/bdc-js.git"
+  },
+  "author": "Ben Chauvette <bdchauvette@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdchauvete/bdc-js/issues"
+  },
+  "homepage": "https://github.com/bdchauvete/bdc-js#readme",
+  "dependencies": {
+    "eslint": "^2.10.2",
+    "eslint-config-bdc": "^1.0.1",
+    "eslint-plugin-import": "^1.8.0",
+    "standard-engine": "^4.0.2"
+  }
+}
