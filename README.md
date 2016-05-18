@@ -4,7 +4,7 @@ For rules, see [`eslint-config-bdc`][].
 
 ```sh
 # install
-npm i -D @bdchauvette-style/js
+npm i -D @bdchauvette/bdc-js
 ```
 
 ```sh
