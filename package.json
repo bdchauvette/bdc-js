@@ -1,6 +1,6 @@
 {
   "name": "@bdchauvette/bdc-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal JavaScript style rules.",
   "main": "index.js",
   "scripts": {
